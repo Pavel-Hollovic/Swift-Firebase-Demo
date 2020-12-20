@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>6423508860-5cmaccedrj0ncuma5dgeelhudbve82ls.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.6423508860-5cmaccedrj0ncuma5dgeelhudbve82ls</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDZvg9h2OtT3_fysusyeeGgkaZsH8_dPWA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>6423508860</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>dev.peterfriese.MakeItSo</string>
+	<key>PROJECT_ID</key>
+	<string>make-it-so-3b0ac</string>
+	<key>STORAGE_BUCKET</key>
+	<string>make-it-so-3b0ac.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:6423508860:ios:208247e6d1e4839aa956f9</string>
+	<key>DATABASE_URL</key>
+	<string>https://make-it-so-3b0ac.firebaseio.com</string>
+</dict>
+</plist>
